@@ -9,3 +9,4 @@ pandas
 sqlalchemy
 chromadb
 python-dotenv
+pydantic
