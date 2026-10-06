@@ -1,0 +1,11 @@
+openai
+langchain
+langchain_openai
+langchain_google_genai
+langchain_huggingface
+langchain_text_splitters
+langchain_chroma
+pandas
+sqlalchemy
+chromadb
+python-dotenv
