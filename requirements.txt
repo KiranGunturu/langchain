@@ -4,6 +4,7 @@ langchain_openai
 langchain_google_genai
 langchain_huggingface
 langchain_text_splitters
+langchain_pymupdf4llm
 langchain_chroma
 pandas
 sqlalchemy
